@@ -1,4 +1,3 @@
 # Tic-Tac-Toe
 
-Tic Tac Toe game
-Build using C++
+Tic Tac Toe game built using C++
